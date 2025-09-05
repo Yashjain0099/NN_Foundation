@@ -28,5 +28,5 @@
 - Verified using finite difference method
 - Wrote general Python function for numerical derivative
 
-👉 [Notebook Link](notebooks/day2_derivatives_gradients.ipynb)
+👉 [Notebook Link](notebooks/calculus_for_learning.ipynb)
 
