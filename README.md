@@ -30,3 +30,16 @@
 
 👉 [Notebook Link](notebooks/calculus_for_learning.ipynb)
 
+## Day 3 - Logistic Regression
+
+**Concepts:**
+- Logistic regression predicts probability using sigmoid.
+- Loss = binary cross-entropy.
+- Parameters updated via gradient descent.
+
+**Hands-on:**
+- Implemented logistic regression from scratch (NumPy).
+- Plotted decision boundary + loss curve.
+- Compared with sklearn’s LogisticRegression.
+
+👉 [Notebook Link](notebooks/LossFunction_LogisticRegression.ipynb)
