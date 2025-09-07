@@ -43,3 +43,18 @@
 - Compared with sklearn’s LogisticRegression.
 
 👉 [Notebook Link](notebooks/LossFunction_LogisticRegression.ipynb)
+
+
+## Day 4 - Activation Functions
+
+**Concepts:**
+- Sigmoid, Tanh, ReLU, Softmax
+- Gradients explain vanishing gradient problem
+- ReLU helps mitigate vanishing gradient for deep nets
+
+**Hands-on:**
+- Implemented activations + gradients in NumPy
+- Plotted functions over [-10, 10]
+- Compared gradients → saw vanishing in sigmoid/tanh
+
+👉 [Notebook Link](notebooks/day4_activation_functions.ipynb)
