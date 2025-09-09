@@ -58,3 +58,18 @@
 - Compared gradients → saw vanishing in sigmoid/tanh
 
 👉 [Notebook Link](notebooks/day4_activation_functions.ipynb)
+
+
+## Day 5 - Two-Layer Neural Network (XOR)
+
+**Concepts:**
+- Input → Hidden (ReLU) → Output (Sigmoid)
+- Forward, loss, backward, update
+- Neural nets can solve non-linear problems like XOR
+
+**Hands-on:**
+- Built NN from scratch with NumPy
+- Implemented forward_propagation, compute_loss, backward_propagation, update_parameters
+- Successfully classified XOR dataset
+
+👉 [Notebook Link](notebooks/The_Perceptron_&_1-Hidden-Layer_MLP.ipynb)
