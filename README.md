@@ -73,3 +73,19 @@
 - Successfully classified XOR dataset
 
 👉 [Notebook Link](notebooks/The_Perceptron_&_1-Hidden-Layer_MLP.ipynb)
+
+## Day 6 - Backpropagation + Gradient Checking
+
+**Concepts:**
+- Backpropagation: computing gradients layer by layer
+- Gradient checking: comparing analytical vs numerical derivatives
+- Loss decreases as parameters update correctly
+
+**Hands-on:**
+- Implemented forward, loss, backward, update in NumPy
+- Trained NN on `make_moons` dataset
+- Verified gradients with numerical approximation
+- Saw loss curve dropping as expected 🎯
+
+👉 [Notebook Link](notebooks/Backprapogation.ipynb)
+ 
