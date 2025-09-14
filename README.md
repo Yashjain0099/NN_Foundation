@@ -1,4 +1,4 @@
-# NN_foundation
+# NN_foundation for EveryOne
 
 ## Day 1 - Vectors, Matrices, and Tensors
 
