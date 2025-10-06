@@ -208,25 +208,25 @@ class NeuralNetwork:
 ## 📚 Learning Modules
 
 ### Module 1: Linear Algebra Foundations
-![Linear Algebra Visualization]((https://github.com/Yashjain0099/NN_Foundation/blob/main/notebooks/ActivationFunction.ipynb))
+![Linear Algebra Visualization](notebooks/vector_matrices_tensors.ipynb)
 - Vector operations and dot products
 - Matrix multiplication (manual vs NumPy)
 - Broadcasting concepts and examples
 
 ### Module 2: Calculus & Derivatives
-![Derivative Plots]((https://github.com/Yashjain0099/NN_Foundation/blob/main/notebooks/forward_%26_backward.ipynb))
+![Derivative Plots](notebooks/calculus_for_learning.ipynb)
 - Derivative computation and verification
 - Numerical vs analytical gradients
 - Chain rule implementation
 
 ### Module 3: Logistic Regression
-![Logistic Regression Results](https://github.com/Yashjain0099/NN_Foundation/blob/main/notebooks/calculus_for_learning.ipynb)
+![Logistic Regression Results](notebooks/LossFunction_LogisticRegression.ipynb)
 - Sigmoid function implementation
 - Binary cross-entropy loss
 - Decision boundary visualization
 
 ### Module 4: Activation Functions
-![Activation Function Comparison](https://github.com/Yashjain0099/NN_Foundation/blob/main/notebooks/The_Perceptron_%26_1-Hidden-Layer_MLP.ipynb)
+![Activation Function Comparison](notebooks/ActivationFunction.ipynb)
 - ReLU, Sigmoid, Tanh, Softmax
 - Vanishing gradient problem demonstration
 - Function and gradient comparisons
@@ -238,7 +238,7 @@ class NeuralNetwork:
 - Loss curve visualization
 
 ### Module 6: Complete Backpropagation
-![Training Results](https://github.com/Yashjain0099/NN_Foundation/blob/main/notebooks/Backprapogation.ipynb)
+![Training Results](notebooks/Backprapogation.ipynb)
 - make_moons dataset classification
 - Gradient verification
 - Training progress visualization
