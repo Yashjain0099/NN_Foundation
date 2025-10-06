@@ -232,7 +232,7 @@ class NeuralNetwork:
 - Function and gradient comparisons
 
 ### Module 5: Neural Networks
-![Neural Network Architecture](https://github.com/Yashjain0099/NN_Foundation/blob/main/notebooks/LossFunction_LogisticRegression.ipynb)
+![Neural Network Architecture](notebooks/The_Perceptron_&_1-Hidden-Layer_MLP.ipynb)
 - XOR problem solution
 - Forward and backward propagation
 - Loss curve visualization
