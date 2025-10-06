@@ -208,37 +208,37 @@ class NeuralNetwork:
 ## 📚 Learning Modules
 
 ### Module 1: Linear Algebra Foundations
-![Linear Algebra Visualization](images/linear_algebra_demo.png)
+![Linear Algebra Visualization]((https://github.com/Yashjain0099/NN_Foundation/blob/main/notebooks/ActivationFunction.ipynb))
 - Vector operations and dot products
 - Matrix multiplication (manual vs NumPy)
 - Broadcasting concepts and examples
 
 ### Module 2: Calculus & Derivatives
-![Derivative Plots](images/derivative_visualization.png)
+![Derivative Plots]((https://github.com/Yashjain0099/NN_Foundation/blob/main/notebooks/forward_%26_backward.ipynb))
 - Derivative computation and verification
 - Numerical vs analytical gradients
 - Chain rule implementation
 
 ### Module 3: Logistic Regression
-![Logistic Regression Results](images/logistic_regression_results.png)
+![Logistic Regression Results](https://github.com/Yashjain0099/NN_Foundation/blob/main/notebooks/calculus_for_learning.ipynb)
 - Sigmoid function implementation
 - Binary cross-entropy loss
 - Decision boundary visualization
 
 ### Module 4: Activation Functions
-![Activation Function Comparison](images/activation_functions.png)
+![Activation Function Comparison](https://github.com/Yashjain0099/NN_Foundation/blob/main/notebooks/The_Perceptron_%26_1-Hidden-Layer_MLP.ipynb)
 - ReLU, Sigmoid, Tanh, Softmax
 - Vanishing gradient problem demonstration
 - Function and gradient comparisons
 
 ### Module 5: Neural Networks
-![Neural Network Architecture](images/nn_architecture.png)
+![Neural Network Architecture](https://github.com/Yashjain0099/NN_Foundation/blob/main/notebooks/LossFunction_LogisticRegression.ipynb)
 - XOR problem solution
 - Forward and backward propagation
 - Loss curve visualization
 
 ### Module 6: Complete Backpropagation
-![Training Results](images/training_results.png)
+![Training Results](https://github.com/Yashjain0099/NN_Foundation/blob/main/notebooks/Backprapogation.ipynb)
 - make_moons dataset classification
 - Gradient verification
 - Training progress visualization
